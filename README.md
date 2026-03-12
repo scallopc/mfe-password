@@ -113,7 +113,7 @@ Para documentação técnica detalhada, incluindo:
 - 🔧 Configuração de Module Federation
 - 📋 Guia de desenvolvimento
 
-Acesse: **[mfe-password/README.md](./mfe-password/README.md)**
+Acesse: **[mfe-password/DOCUMENTATION.md](./mfe-password/DOCUMENTATION.md)**
 
 ---
 
